@@ -1,7 +1,7 @@
 # Iceberg-detection
 
 Master thesis, iceberg detection
-
+Author: shuzhi dong
 Data source: https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
 
 Platform: AWS sagemaker
